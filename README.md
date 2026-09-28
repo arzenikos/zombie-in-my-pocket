@@ -155,3 +155,7 @@ A visual representation of the maze and game logic is available in the PDF file:
 > **Disclaimer**
 > 
 > All the content presented here is the result of my own individual work, and any resemblance to other works is purely coincidental. If you are a student, please refrain from using or copying this work in any way that violates the principles of academic honesty and integrity.
+
+---
+
+Created by Arsenie —— 2025
