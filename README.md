@@ -1,3 +1,6 @@
+<div align="center">
+    <img width="100" height="100" alt="zombie-in-my-pocket-logo" src="https://github.com/user-attachments/assets/ce543fbc-196f-44d6-afef-1a10a15885bf" />
+
 # ZombieInMyPocket
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -6,11 +9,48 @@
 >
 > A simple desktop game where you explore a randomly generated house and fight off zombies while searching for key items. Built using Python, as part of the **BCDE321 Advance Programming** course, this project demonstrates modular design, event‑driven logic, and object‑oriented game architecture.
 
----
+~✦~
 
+[![📖 Wiki — Full Local Setup Guide](https://img.shields.io/badge/📖_Wiki-Full%20Local%20Setup%20Guide_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arzenikos/oarbit-pulse/wiki/Local-Installation-Guide)
 [![Video Demo](https://img.shields.io/badge/YouTube-View%20Recorded%20Demo-1a1a2e?style=for-the-badge&logo=youtube&labelColor=16213e)]()
 
+</div>
+
 ---
+
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/681807-681807?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/C38238-C38238?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/F1CF98-F1CF98?style=for-the-badge&logoColor=black" />
+    </td>
+  </tr>    
+  <tr>
+      <td><img width="433" height="287" alt="image" src="https://github.com/user-attachments/assets/e8c011aa-665a-4254-86a3-333c022a1d8f" /></td>
+      <td><img width="433" height="287" alt="image" src="https://github.com/user-attachments/assets/e8c011aa-665a-4254-86a3-333c022a1d8f" /></td>
+      <td><img width="433" height="287" alt="image" src="https://github.com/user-attachments/assets/e8c011aa-665a-4254-86a3-333c022a1d8f" /></td>
+  </tr>
+  <tr>
+      <td>
+          <ul>
+              <li>Sample UI description</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+              <li>Sample UI description</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+              <li>Sample UI description</li>
+          </ul>
+      </td>
+    </tr>
+</table>
+
+> 📖 [See Wiki](https://github.com/arzenikos/zombie-in-my-pocket/wiki) for the iteration snapshots, full admin usage instructions, and data model details.
 
 # Game Info
 Imagine you're trapped in a spooky house full of zombies, and you need to save the world before midnight!
@@ -37,28 +77,6 @@ Imagine you're trapped in a spooky house full of zombies, and you need to save t
 - Quick to play, easy to learn
 - It's a free print-and-play game you can download and make at home
 - Think of it like a mini horror movie where you're the hero trying to save the day - but you only have until midnight to do it!
-
-> [![📖 See Wiki ](https://img.shields.io/badge/See_Wiki_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arseniedev/zombie-in-my-pocket/wiki)</br>
-> for the iteration snapshots, full admin usage instructions, and data model details.
-
-<table>
-    <tr>
-        <td><image src="https://github.com/arseniedev/zombie-in-my-pocket/blob/docs/assets/clips/clip-001.gif" width="200" alt="clip-001.gif"></image></td>
-        <td>
-            <ul>
-                <li></li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><image src="https://github.com/arseniedev/zombie-in-my-pocket/blob/docs/assets/clips/clip-002.gif" width="200" alt="clip-002.gif"></td>
-        <td>
-            <ul>
-                <li></li>
-            </ul>
-        </td>
-    </tr>
-</table>
 
 ## Setup & Installation
 
